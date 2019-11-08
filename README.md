@@ -16,4 +16,4 @@ npm start
 ```
 This will start a developemnt server!
 
-The application can be viewed on the http://localhost:8080 by default
+The application can be viewed on the http://localhost:8080
